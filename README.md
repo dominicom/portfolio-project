@@ -1,9 +1,10 @@
 # Portfolio Project
 
 **Portfolio Site**
+
 Student Project #2 during Google Front-End Development Nanodegree Program at Udacity
 
-[See live project](https://dominicom.github.io/project-portfolio/)
+[See live project](https://dominicom.github.io/portfolio-project/)
 
 ## Table of Contents
 
