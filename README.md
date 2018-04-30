@@ -21,7 +21,7 @@ Simple responsive Portfolio website created with HTML, CSS and JavaScript small 
 
 Student will be provided with a design mockup as a PDF-file and must replicate that design in HTML and CSS. Develop a responsive website that will display images, descriptions and links to each of the portfolio projects you will complete throughout the course of Nanodegree program.
 
-The design mockup [here](resources/design-mockup-portfolio).
+The design mockup [here](resources/design-mockup-portfolio.pdf).
 
 or
 
@@ -48,7 +48,7 @@ _Note: the validators consider the following errors, whereas Udacity accepts the
 #### Graphics and design resources
 
 Original graphic design and assets by the **Author**.
-Used [Udacity](https://www.udacity.com) is registered, and [I d I](https://www.kiepuszewski.com) is a copyrighted personal brand logo of the **Author**.
+Used [Udacity](https://www.udacity.com) and logos of companies listed in section _Worked for.._ are registered, and [I d I](https://www.kiepuszewski.com) is a copyrighted personal brand logo of the **Author**.
 
 ## Contributing
 
